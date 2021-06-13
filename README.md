@@ -2,7 +2,7 @@
    <img align="center" width="200" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" />
    <h3 align="center">¡Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! ¡Mucho Gusto! My name is Jorge 👨🏻‍💻</h3>
 </p>
-<p align="center"> <strong>I'm business engineer</strong> and <strong>Junior Full-Stack JavaScript Developer.</strong>
+<p align="center"> <strong>I'm a business engineer</strong> and <strong>Junior Full-Stack JavaScript Developer.</strong>
  </br>Full Stack at <a href="https://www.aljorgevi.com">aljorgevi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="center"></p>
 
@@ -12,10 +12,10 @@
 
 ### Here are some ideas to get you started:</br>
 
-- 🔭 I’m currently more into the **Programming**
+- 🔭 I’m currently developing my **Programming skills**
 - 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 💬 Ask me about **Business, Entrepreneurship, Travel, Football, Books, History, Nature.**
+- 💬 Ask me about **Business, Entrepreneurship, Travelling, Sports, Books, History, Nature.**
 - ⚡ Fun fact: **If you could pick any superpower in the world to have, which superpower would you choose?</br>
   Flying?</br>
   Invisibility?</br>
