@@ -2,7 +2,7 @@
    <img align="center" width="200" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" />
    <h3 align="center">¡Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! ¡Mucho Gusto! My name is Jorge 👨🏻‍💻</h3>
 </p>
-<p align="center"> <strong>I'm a business engineer</strong> and <strong>Junior Full-Stack JavaScript Developer.</strong>
+<p align="center"> <strong>I'm a business engineer</strong> and <strong>Frontend Developer.</strong>
  </br>Full Stack at <a href="https://www.aljorgevi.com">aljorgevi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="center"></p>
 
