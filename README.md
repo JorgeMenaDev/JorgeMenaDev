@@ -37,7 +37,7 @@
 
 </br>
 
-![Jorge Mena github stats](https://github-readme-stats.vercel.app/api?username=aljorgevi&show_icons=true&hide_border=true)
+![Jorge Mena github stats](https://github-readme-stats.vercel.app/api?username=jorgemenadev&show_icons=true&hide_border=true)
 
 <div>
   <h3> 💻 Languages and Tools </h3>
