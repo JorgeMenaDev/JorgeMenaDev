@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! ¡Mucho Gusto! My name is Jorge 👨🏻‍💻</h3>
 </p>
 <p align="center"> <strong>I'm a Software engineer</strong> aspecialising in Java and JavaScript with React
- </br>Full Stack at <a href="https://www.aljorgevi.com">aljorgevi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ </br>Full Stack at <a href="https://www.lloydsbankinggroup.com">Lloyds</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="center"></p>
 
 </br>
